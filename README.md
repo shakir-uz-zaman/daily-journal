@@ -7,3 +7,5 @@
 > November 10, 2021
 1. I figured out that to be a top software engineer , someone needs to be understand and master the basic problem solving skils.I usually solve problems in leetcode now using js and planning to give it more time and effort.
 But now I realized that I need to give it a try giving more time and effort. Instead of using Javacript I will use c++ to problem solving.
+
+2. Also working on my pos software, making all the possible functions make it more functional.
