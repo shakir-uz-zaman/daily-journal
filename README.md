@@ -1,5 +1,13 @@
 # Journal
 
+> November 25, 2021
+1. These last few days I was so  busy doing the post software for Retro tech and Restaurent management app for titas. I did not find a way to solve the problem solving situtatio.
+
+2. I started working with whizdevs .
+
+3. I taked with few peoples and they can manage many clients. So this was a very promising oppurtunity to start a start up tech. So next fews days I will give my time to this pos software to make this user friendly and fast.
+
+
 > November 10, 2021
 1. I figured out that to be a top software engineer , someone needs to be understand and master the basic problem solving skils.I usually solve problems in leetcode now using js and planning to give it more time and effort.
 But now I realized that I need to give it a try giving more time and effort. Instead of using Javacript I will use c++ to problem solving.
